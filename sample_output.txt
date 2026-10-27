@@ -1,0 +1,14 @@
+SIMULATE SENTENCE DIVIDER
+
+Enter a paragraph:
+Hello! How are you?
+
+OUTPUT:
+
+Sentence 1: Hello!
+Ending punctuation: !
+
+Sentence 2: How are you?
+Ending punctuation: ?
+
+Total Sentences Found : 2
